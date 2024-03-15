@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java Combo Box Practice 1 (AlgoExpert)</b>
-  - (https:https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
+- <b>Java Combo Box Practice 1 (Java Expert)</b>
+  - (https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
+- <b>Java Combo Box Practice 2 (Java Expert)</b>
+  - (//https://github.com/nWallyterNator/MoreComboBoxes//)
+- <b>Java Combo Box Practice 3 (Java Expert)</b>
+  - (//https://github.com/nWallyterNator/BasketballComboBoxProject//)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
