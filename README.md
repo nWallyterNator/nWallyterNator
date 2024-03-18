@@ -5,8 +5,8 @@
 - <b>Java (Java Expert)</b>
   - [Practicing Combo Boxes with Java](https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
   - [More practice with Combo Boxes with Java](https://github.com/nWallyterNator/MoreComboBoxes//)
-  -[Practicing with Table and Combo Boxes](https://https://github.com/nWallyterNator/BasketballComboBoxProject//)
-  - [More Table Practice](/https://github.com/nWallyterNator/BaskeballProject3/)
+  -[Practicing with Table and Combo Boxes](https://github.com/nWallyterNator/BasketballComboBoxProject//)
+  - [More Table Practice](https://github.com/nWallyterNator/BaskeballProject3)
 - <b>Java Combo Box Practice 3 (Java Expert)</b>
   - (//https://github.com/nWallyterNator/BasketballComboBoxProject//)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
