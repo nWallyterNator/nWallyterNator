@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java Combo Box Practice 1 (Java Expert)</b>
-  - (https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
+- <b>Java (Java Expert)</b>
+  - [Practicing Combo Boxes with Java](https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
 - <b>Java Combo Box Practice 2 (Java Expert)</b>
   - (//https://github.com/nWallyterNator/MoreComboBoxes//)
 - <b>Java Combo Box Practice 3 (Java Expert)</b>
