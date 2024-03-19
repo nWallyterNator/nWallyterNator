@@ -3,8 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java (Java Expert)</b>
-  - [Practicing Combo Boxes with Java](https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
-  - [More practice with Combo Boxes with Java](https://github.com/nWallyterNator/MoreComboBoxes//)
+  - [Practicing Combo Boxes](https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
+  - [More practice with Combo Boxes](https://github.com/nWallyterNator/MoreComboBoxes//)
+  - [Lambda practice and Combo Boxes](https://github.com/nWallyterNator/BasketballComboBoxProject//)
+  - [Search with A Table](https://github.com/nWallyterNator/BaskeballProject3//)
+  - [TableView Practice](https://github.com/nWallyterNator/BasketballProjectTable//)
+  - [Git Practice](https://github.com/nWallyterNator/GitDemoHelp//)
   
 - <b>Java Combo Box Practice 3 (Java Expert)</b>
   - (//https://github.com/nWallyterNator/BasketballComboBoxProject//)
