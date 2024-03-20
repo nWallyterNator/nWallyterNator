@@ -10,13 +10,15 @@
   - [TableView Practice](https://github.com/nWallyterNator/BasketballProjectTable//)
   - [Git Practice](https://github.com/nWallyterNator/GitDemoHelp//)
   
-- <b>Capstone Project (Mobile Application Expert, Android Studio)</b>
-  - [ROOM DataBase, Business Plan, Application Captain Ahab](//https://github.com/nWallyterNator/Capstone//)
+- <b>Capstone Project (Mobile Application Expert, Android Studio,ROOM DataBase)</b>
+  - [Captain Ahab Mobile Application](//https://github.com/nWallyterNator/Capstone//)
 - <b>School Tracker Application (Mobile Application ROOM Expert, Android Studio)</b>
   - [ROOM DataBase, Java](//https://github.com/nWallyterNator/Mobile-Application-Development//)
 - <b>USER Expierence/ USER Design(UX,UI Design, FIGMA)</b>
   - [Travel Agency For Country](/https://github.com/nWallyterNator/User-Expierence/)
   - [Paradigm Pet Proffesional UI Design](//https://github.com/nWallyterNator/UI-Design//)
+- <b>Software Engineer(Software Engineer Business Plan)</b>
+  - [American Video Gaming Company](//https://github.com/nWallyterNator/SoftwareEngineerProject//)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
