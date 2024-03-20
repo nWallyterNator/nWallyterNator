@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java (Java Expert)</b>
+  - [Part and Product Inventory Tracking System](//https://github.com/nWallyterNator/PartAndProductTrackingSystem//)
   - [Practicing Combo Boxes](https://github.com/nWallyterNator/ComboBoxPracticeandThenSome//)
   - [More practice with Combo Boxes](https://github.com/nWallyterNator/MoreComboBoxes//)
   - [Lambda practice and Combo Boxes](https://github.com/nWallyterNator/BasketballComboBoxProject//)
