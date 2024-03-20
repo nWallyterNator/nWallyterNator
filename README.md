@@ -19,6 +19,8 @@
   - [Paradigm Pet Proffesional UI Design](//https://github.com/nWallyterNator/UI-Design//)
 - <b>Software Engineer(Software Engineer Business Plan)</b>
   - [American Video Gaming Company](//https://github.com/nWallyterNator/SoftwareEngineerProject//)
+- <b> C++ (C++ Expert)</b>
+  - [School Table Application](/https://github.com/nWallyterNator/StudentDataTable/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
