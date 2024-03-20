@@ -12,8 +12,8 @@
   
 - <b>Capstone Project (Mobile Application Expert, Android Studio,ROOM DataBase)</b>
   - [Captain Ahab Mobile Application](//https://github.com/nWallyterNator/Capstone//)
-- <b>School Tracker Application (Mobile Application ROOM Expert, Android Studio)</b>
-  - [ROOM DataBase, Java](//https://github.com/nWallyterNator/Mobile-Application-Development//)
+- <b>Mobile Application Development (Mobile Application ROOM Expert, Android Studio, Java)</b>
+  - [Student Tracker](//https://github.com/nWallyterNator/Mobile-Application-Development//)
 - <b>USER Expierence/ USER Design(UX,UI Design, FIGMA)</b>
   - [Travel Agency For Country](/https://github.com/nWallyterNator/User-Expierence/)
   - [Paradigm Pet Proffesional UI Design](//https://github.com/nWallyterNator/UI-Design//)
