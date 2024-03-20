@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nic! <br/><a href="https://github.com/joshmadakor1">Programmer, Software Developer,</a>
+<h1>Hi, I'm Nic! <br/><a href="https://github.com/nWallyterNator?tab=repositories//">Programmer, Software Developer, SoftwareEngineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
