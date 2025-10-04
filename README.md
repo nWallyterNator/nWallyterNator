@@ -25,6 +25,7 @@
 - <b> Data Analysis(SQL, NOSQL Expert)</b>
   - [DVD Database](//https://github.com/nWallyterNator/DataAnalysis//)
 - <b>Full Stack Web Development (HTML, CSS, JavaScript)</b>
+  - [HTML Practice](//https://nwallyternator.github.io/html-portfolio//)
   - [Odin Recipes](//https://github.com/nWallyterNator/odin-recipes//)
   - [CSS Practice](//https://github.com/nWallyterNator/css-exercises//)
 
