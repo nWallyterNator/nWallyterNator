@@ -12,22 +12,22 @@
   - [Git Practice](https://github.com/nWallyterNator/GitDemoHelp//)
   
 - <b>Capstone Project (Mobile Application Expert, Android Studio,ROOM DataBase)</b>
-  - [Captain Ahab Mobile Application](//https://github.com/nWallyterNator/Capstone//)
+  - [Captain Ahab Mobile Application](https://github.com/nWallyterNator/Capstone//)
 - <b>Mobile Application Development (Mobile Application ROOM Expert, Android Studio, Java)</b>
-  - [Student Tracker](//https://github.com/nWallyterNator/Mobile-Application-Development//)
+  - [Student Tracker](https://github.com/nWallyterNator/Mobile-Application-Development//)
 - <b>USER Expierence/ USER Design(UX,UI Design, FIGMA)</b>
-  - [Travel Agency For Country](/https://github.com/nWallyterNator/User-Expierence/)
-  - [Paradigm Pet Proffesional UI Design](//https://github.com/nWallyterNator/UI-Design//)
+  - [Travel Agency For Country](https://github.com/nWallyterNator/User-Expierence/)
+  - [Paradigm Pet Proffesional UI Design](https://github.com/nWallyterNator/UI-Design//)
 - <b>Software Engineer(Software Engineer Business Plan)</b>
-  - [American Video Gaming Company](//https://github.com/nWallyterNator/SoftwareEngineerProject//)
+  - [American Video Gaming Company](https://github.com/nWallyterNator/SoftwareEngineerProject//)
 - <b> C++ (C++ Expert)</b>
-  - [School Table Application](/https://github.com/nWallyterNator/StudentDataTable/)
+  - [School Table Application](https://github.com/nWallyterNator/StudentDataTable/)
 - <b> Data Analysis(SQL, NOSQL Expert)</b>
-  - [DVD Database](//https://github.com/nWallyterNator/DataAnalysis//)
+  - [DVD Database](https://github.com/nWallyterNator/DataAnalysis//)
 - <b>Full Stack Web Development (HTML, CSS, JavaScript)</b>
-  - [HTML Practice](//https://nwallyternator.github.io/html-portfolio//)
-  - [Odin Recipes](//https://github.com/nWallyterNator/odin-recipes//)
-  - [CSS Practice](//https://github.com/nWallyterNator/css-exercises//)
+  - [HTML Practice](https://nwallyternator.github.io/html-portfolio//)
+  - [Odin Recipes](https://github.com/nWallyterNator/odin-recipes//)
+  - [CSS Practice](https://github.com/nWallyterNator/css-exercises//)
 
 
 
